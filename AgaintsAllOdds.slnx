@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="againtsallodds.client/againtsallodds.client.esproj">
-    <Build />
-    <Deploy />
-  </Project>
-  <Project Path="AgaintsAllOdds.Server/AgaintsAllOdds.Server.csproj" />
-</Solution>

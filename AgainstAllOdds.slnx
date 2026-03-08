@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="againstallodds.client/againstallodds.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="AgainstAllOdds.Server/AgainstAllOdds.Server.csproj" />
+</Solution>
